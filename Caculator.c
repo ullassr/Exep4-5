@@ -1,8 +1,8 @@
 #include<stdio.h>
 {
-int add(int a,intb)
+int mul(int a,intb)
 {
-return a+b;
+return a*b;
 }
 }
 
